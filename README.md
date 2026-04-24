@@ -1,59 +1,46 @@
-# Sylvanus-Macauley-Bsem1201-ID---905005394
-Web Design Assignment-1 Personal introductory web page built with HTML.
-# Asynchronous Library Management System
 
-## Description
-This project is a simple **Asynchronous Library Management System** built with Python using `asyncio`.
+# Description
+This project is a simple personal introductory web page created using **HTML5** and **CSS3**.
 
-The system simulates how a library API works in the terminal by allowing users to:
+The webpage introduces the student, provides a short biography, explains the reason for studying web design, and outlines future career goals.
 
-- View all books
-- Search books by title, author, or category
-- Borrow books
-- Return books
-- Check fines
-- Simulate multiple users borrowing books at the same time
+The page is designed with a clean responsive layout that adjusts to different screen sizes.
 
-This project demonstrates *asynchronous programming*, concurrency, locks, lists, dictionaries, functions, and type annotations.
+# Features
 
-## Features
+- Clean and professional layout
+- Responsive design for mobile and desktop
+- Header section with student name and program
+- Introduction section
+- Short biography section
+- Why I Study Web Design section
+- Career Goals section
+- Footer with student information
+- Internal CSS styling
 
-### 1. View All Books
-Displays all books with their details and availability status.
+#  Technologies Used
 
-### 2. Search Books
-Search books using:
+- HTML5
 
-- Title
-- Author
-- Category
+## File Structure
 
-### 3. Borrow Book
-Allows a user to borrow a book if available.
+`text id="l7w2f1"
+project-folder/
+│── index.html
+│── README.md
 
-### 4. Return Book
-Allows a user to return a borrowed book.
+How to Run the Project
+Step 1:
+Save the code as:
 
-### 5. Check Fines
-Checks the total fine for a user.
+index.html
+Step 2:
 
-### 6. Multiple Users Simulation
-Uses `asyncio.gather()` to simulate many users borrowing books at the same time.
+Open the file in any web browser such as:
 
----
+Google Chrome
+Microsoft Edge
+Mozilla Firefox
+Step 3:
 
-## Technologies Used
-
-- Python 3
-- asyncio
-- Type Annotations
-
-## How to Run the Program
-
-## Step 1: Install Python
-Make sure Python is installed.
-
-## Step 2: Run the program
-
-```bash
-python main.py
+Double click the file or right click and choose Open With Browser
