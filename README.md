@@ -1,6 +1,6 @@
 
 # Description
-This project is a simple personal introductory web page created using **HTML5** and **CSS3**.
+This project is a simple personal introductory web page created using **HTML5**.
 
 The webpage introduces the student, provides a short biography, explains the reason for studying web design, and outlines future career goals.
 
